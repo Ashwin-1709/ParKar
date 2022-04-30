@@ -1,5 +1,5 @@
 # ParKar
-Car Parking Management Web Application System made for OOPS Project
+Car Parking Management System Web Application made for OOPS Project
 
 Frameworks Used - 
 1. Spring Boot - Backend
