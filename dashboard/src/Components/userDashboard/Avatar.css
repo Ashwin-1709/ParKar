@@ -1,0 +1,12 @@
+.avatar-box{
+    border : 1px solid grey;
+    border-radius: 20px;
+    padding: 30px;
+    background: rgba(115, 105, 255,0.8);
+    margin-top: 50px;
+}
+.center{
+    padding-top: 20px;
+    text-align: center;
+    line-height: 30px;
+}

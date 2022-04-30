@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');.login{
+    align-items: center;
+    text-align: center;
+}
+.form-content{
+    display: flex;
+    flex-direction: column;
+    padding-bottom:20px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(86,74,253);
+    color: white;
+}
+.login{
+    padding-bottom: 10px;
+}
+.form-content2{
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    align-items: center;
+    justify-content: center;
+
+}
+.bubbles{
+    width: 100px;
+    height: 100px;
+    background: url('./bubbles.svg');
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.login-bg{
+    height: 100vh;
+    background: url('./bg2.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-x:right;
+    background-position-y: bottom;
+}
+.login-bg2{
+    height: 90vh;
+    background: url('./bg2.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-x:right;
+    background-position-y: bottom;
+}
+.emailfield{
+    width: 60% !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    border-radius: 2px !important;
+}
+.emailfield2{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    width: inherit !important;
+    padding: inherit;
+    width: 60% !important;
+    justify-content: center;
+}
+
+.sign-in{
+    width: 60%;
+    margin-top: 10px !important;
+}
+
+.emailfield{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+.context {
+    width: 100%;
+    position: absolute;
+    top:50vh;
+    
+}
+
+.context h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}

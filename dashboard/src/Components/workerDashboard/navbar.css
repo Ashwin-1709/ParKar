@@ -1,0 +1,56 @@
+.NavbarItems{
+    background: linear-gradient(90deg,rgb(110,94,254) 0%,rgba(73,63,252,1) 100%);
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+}
+.navbar-logo{
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+}
+.navbar-logo:hover{
+    padding:10px;
+    background: #6d76f7;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+.fa-car{
+    margin-left: 0.5rem;
+    font-size: 1.6rem;
+}
+.menu-icon{
+    color: #fff;
+    font-size: 1.3rem;
+    display: none;
+}
+.nav-menu{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    margin-right: 2rem;
+}
+.nav-links{
+    color: white;
+    text-decoration: none !important;
+    padding:10px;
+}
+.nav-links-mobile{
+    color: white;
+    text-decoration: none;
+    padding:10px;
+    display: none;
+}
+li{
+    padding: 1%;
+}
+.nav-links:hover{
+    padding:20px;
+    background: #6d76f7;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}

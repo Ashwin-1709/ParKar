@@ -1,0 +1,7 @@
+.parkingSpacesLayout{
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 90vh;
+}
